@@ -13,19 +13,19 @@ import '../App.css';
 
 function Main() {
   return (
-      <main className='Main'>
-          <SlideProvider>
-            <SlideSection />
-          </SlideProvider>
-          <PostSection />
-          <CardProvider>
-            <CardSection />
-          </CardProvider>
-          <CommitmentSection />
-          <ContentProvider>
-            <ContentSection />
-          </ContentProvider>
-      </main>
+    <main className='Main'>
+      <SlideProvider>
+        <SlideSection />
+      </SlideProvider>
+      <PostSection />
+      <CardProvider>
+        <CardSection />
+      </CardProvider>
+      <CommitmentSection />
+      <ContentProvider>
+        <ContentSection />
+      </ContentProvider>
+    </main>
   );
 }
 

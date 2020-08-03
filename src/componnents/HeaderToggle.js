@@ -15,7 +15,7 @@ class HeaderToggle extends Component {
     }
 
 
-    isShow()  {
+    isShow() {
         this.setState({
             isShow: !this.state.isShow
         })
@@ -23,17 +23,17 @@ class HeaderToggle extends Component {
 
     render() {
         return (
-            <div className={classNames('HeaderToggle', { 'HeaderToggle-show': this.props.isOpen})}>
+            <div className={classNames('HeaderToggle', { 'HeaderToggle-show': this.props.isOpen })}>
                 <NavLink className="HeaderToggle-title" onClick={this.isShow}>
                     Company
                 </NavLink>
                 <NavLink className="HeaderToggle-link" href="/about-us/">About us</NavLink>
                 <NavLink className="HeaderToggle-link" href="/how-uber-works/">How Uber works</NavLink>
                 <NavLink className="HeaderToggle-link" href="/global-citizenship/">Global citizenship</NavLink>
-                <NavLink className="HeaderToggle-link" href="/newsroom/">Newsroom</NavLink>   
+                <NavLink className="HeaderToggle-link" href="/newsroom/">Newsroom</NavLink>
                 <NavLink className="HeaderToggle-link" href="/investor-relations/">Investor relations</NavLink>
                 <NavLink className="HeaderToggle-link" href="/blog/">Blog</NavLink>
-                <NavLink className="HeaderToggle-link" href="/careers/">Careers</NavLink>   
+                <NavLink className="HeaderToggle-link" href="/careers/">Careers</NavLink>
             </div>
         );
     }

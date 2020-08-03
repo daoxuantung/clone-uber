@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clone-uber/static/css/main.2060adbb.chunk.css",
+    "main.js": "/clone-uber/static/js/main.1610a859.chunk.js",
+    "main.js.map": "/clone-uber/static/js/main.1610a859.chunk.js.map",
+    "runtime-main.js": "/clone-uber/static/js/runtime-main.ed1841c6.js",
+    "runtime-main.js.map": "/clone-uber/static/js/runtime-main.ed1841c6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/clone-uber/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aaf1ea48.chunk.js": "/clone-uber/static/js/2.aaf1ea48.chunk.js",
+    "static/js/2.aaf1ea48.chunk.js.map": "/clone-uber/static/js/2.aaf1ea48.chunk.js.map",
+    "index.html": "/clone-uber/index.html",
+    "precache-manifest.3d14b72379ee50a2be63f5b6f3f1b85b.js": "/clone-uber/precache-manifest.3d14b72379ee50a2be63f5b6f3f1b85b.js",
+    "service-worker.js": "/clone-uber/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/clone-uber/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2060adbb.chunk.css.map": "/clone-uber/static/css/main.2060adbb.chunk.css.map",
+    "static/js/2.aaf1ea48.chunk.js.LICENSE.txt": "/clone-uber/static/js/2.aaf1ea48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1841c6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aaf1ea48.chunk.js",
+    "static/css/main.2060adbb.chunk.css",
+    "static/js/main.1610a859.chunk.js"
+  ]
+}

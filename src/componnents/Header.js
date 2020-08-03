@@ -109,7 +109,7 @@ class Header extends Component {
                     <Col md="12" lg="6">
                         <h1>Help keep each other safe</h1>
                         <p>The world is upside down. Everything has changed. We are actively monitoring the coronavirus (COVID‑19) situation and are taking steps to help keep those that rely on our platform safe.</p>
-                        <a href="/" className="btn-more">Learn more</a>
+                        <a href="#" className="btn-more">Learn more</a>
                     </Col>
                 </Row>
             </Container>

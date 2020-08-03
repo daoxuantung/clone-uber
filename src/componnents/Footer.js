@@ -38,7 +38,7 @@ class Footer extends Component {
                             {
                                 icons.map((icon, index) =>
                                 <div className="icon-address"key={index}>
-                                    <a className="icon-link" href="/" >
+                                    <a className="icon-link" href="#" >
                                         <img src={icon} alt="" width={16}/>
                                     </a>
                                 </div>
@@ -51,7 +51,7 @@ class Footer extends Component {
                             {
                                 images.map((icon, index) =>
                                 <div className="icon-address" key={index}>
-                                    <a href="/" >
+                                    <a href="#" >
                                         <img src={icon} alt="" width={150} height={50}/>
                                     </a>
                                 </div>

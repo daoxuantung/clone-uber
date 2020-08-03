@@ -39,7 +39,7 @@ export default function SlideSection() {
               <div key={index} className={classNames('SlideSection-content', { 'SlideSection-show' : slide.isBorder })}>
                 <h1>{slide.title}</h1>
                 <p>{slide.content}</p>
-                <a href="/" className="btn-more btn-background">{slide.text}</a>
+                <a href="#" className="btn-more btn-background">{slide.text}</a>
               </div>
             )
           }
